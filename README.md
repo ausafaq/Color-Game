@@ -2,7 +2,7 @@
 
 Created the basic color game to develop an understanding of RGB codes.
 
-![Alt text](C:\Users\ausaf\Desktop\capture.png?raw=true "Title")
+![Alt text](https://github.com/ausafaq/Color-Game/blob/master/utility/Preview.PNG)
 
 
 
